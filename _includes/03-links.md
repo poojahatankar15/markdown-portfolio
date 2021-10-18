@@ -1,1 +1,1 @@
-[meow] (https://github.com/poojahatankar15)
+[text](https://example.com)
